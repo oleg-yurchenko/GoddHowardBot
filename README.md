@@ -2,9 +2,7 @@
 A multi-purpose discord bot
 # What is this?
 This is a python bto created by Oleg Yurchenko. It has a few features for now, such as:
- - Telling people to shut up if they meantion League of Legends
- - Tell Oleg to stop playing Tarkov
- - Send digital threats through DMs (Navy SEAL copypasta)
+ - Send copypastas through DMs (Navy SEAL copypasta)
  - remove the last 1000000 messages in a text channel (number can and will be changed. For now it is hardcoded)
  - check everyone's activity status (not recommended using on servers with over 10 active people. Disable command by commenting out the snippet where it check the message for "who's on"
 # Why did you make this?
